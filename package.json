@@ -1,0 +1,18 @@
+{
+  "name": "animejs-pixijs",
+  "private": true,
+  "version": "0.0.0-beta",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "animejs": "^4.0.2",
+    "pixi.js": "^8.10.1"
+  }
+}
